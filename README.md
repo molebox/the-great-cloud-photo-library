@@ -1,6 +1,6 @@
 ## The Great Cloud Photo Library
 
-A personal photo library with images stored in [cloudinary](https://cloudinary.com/) and accessed via serverless functions.
+A personal authenticated photo library with images stored in [cloudinary](https://cloudinary.com/) and accessed via serverless functions.
 
 Project for an up coming tutorial series.
 
