@@ -1,0 +1,24 @@
+{
+  "name": "the-great-cloud-photo-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/molebox/the-great-cloud-photo-library.git",
+  "author": "HAINES-DESKTOP\\richa <richardkhaines@hotmail.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^1.22.0",
+    "gatsby": "^2.24.50",
+    "global": "^4.4.0",
+    "graphql": "^15.3.0",
+    "isomorphic-fetch": "^2.2.1",
+    "netlify-cli": "^2.59.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-dropzone": "^11.0.3",
+    "use-cloudinary": "^3.1.6"
+  },
+  "devDependencies": {
+    "@hot-loader/react-dom": "^16.13.0",
+    "prettier": "^2.1.0"
+  }
+}
